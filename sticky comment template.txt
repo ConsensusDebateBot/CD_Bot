@@ -1,0 +1,10 @@
+[Comment]({permalink}) of top commenter (u/{author_name}) with {votes} votes:
+				  
+{body}
+
+---
+
+{chart}
+	
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](https://www.reddit.com/message/compose?to=%2Fr%2Fgouraritest) if you have any questions or concerns.*
+				 
