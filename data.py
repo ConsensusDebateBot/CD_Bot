@@ -97,7 +97,7 @@ class Data:
 	def fullnames(self, duration, checks):
 		fullnames = []
 		now = time.time()
-		if nchecks == 0:
+		if checks == 0:
 			nchecks = math.inf
 		else:
 			nchecks = 1 / checks
