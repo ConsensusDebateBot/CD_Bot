@@ -32,7 +32,7 @@ CHECKS_PER_DAY = 1
 # Number of users showed in the chart.
 CHART_LIMIT = 5
 
-CHARACHTER_LIMIT = 1000  # Number of charachters of the pinned comment.
+CHARACTER_LIMIT = 1000  # Number of charachters of the pinned comment.
 
 SAVE_DATA_EVERY = 10  # In minutes.
 
